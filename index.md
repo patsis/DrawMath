@@ -1,37 +1,18 @@
 ## Welcome to DrawMath
 
-You can use the [editor on GitHub](https://github.com/patsis/DrawMath/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Draw your math knowledge!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+DrawMath will help your child to learn to write the numbers and do the four basic math operations. The difficulty is depending on your child level and knowledge on math. This app is suitable for children from **3+ years old**.
 
-### Markdown
+After your child answers there is a confirmation / correction in natural voice language.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are 3 difficulty ranges: 
+- **3-5** years old, 
+- **5-7** years old and 
+- **7+** years old.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patsis/DrawMath/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You can also choose which operations your child will be tested on.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with DrawMath? Send your thoughts on [contact support](mailto:hpappinfo@gmail.com) and we’ll help you sort it out.
