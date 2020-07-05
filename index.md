@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to DrawMath
 
 You can use the [editor on GitHub](https://github.com/patsis/DrawMath/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
