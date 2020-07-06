@@ -1,10 +1,12 @@
-## Welcome to DrawMath
+## Welcome to Draw Math
 
 ### Draw your math knowledge!
 
 DrawMath will help your child to learn to write the numbers and do the four basic math operations. The difficulty is depending on your child level and knowledge on math. This app is suitable for children from **3+ years old**.
 
 After your child answers there is a confirmation / correction in natural voice language.
+
+Languages supported: English, German, French, Spanish, Portuguese and Greek
 
 There are 3 difficulty ranges: 
 - **3-5** years old, 
